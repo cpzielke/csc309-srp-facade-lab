@@ -47,6 +47,6 @@ put the logic as the items are *mostly* acting on the player.
 
 ## How to fix it?
 
-*Apply the Single Responsibility Principle to provide a better separation of concerns, improve class cohesion.*
+Apply the Single Responsibility Principle to provide a better modularity and improve class cohesion. The classes in the new design should have less responsibilities. For that purpose, feel free to create new classes and achieve better separation of concerns over your classes. *Refer to the lecture and reading assignment to recall this design principle or learn more about it.*
 
-*Then, implement a Facade as a way to provide client code a unique central point of access to those different functionalities.*
+Then, in a last step, implement a Facade class as a way to provide client code a unique central point of access to those different functionalities. Your facade should be the frontline for providing access to any functionality implemented in the 'game'. The facade should be able to receive calls and then delegate calls to the proper objects that implement the desired functionalities. *Again, refer to the lecture and reading assignment to recall this design parttern or learn more about it.*
