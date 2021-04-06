@@ -24,10 +24,13 @@ public class SimpleGameEngine implements IGameEngine {
     public void playSpecialEffect(String effectName) {
         if (effectName.equals("green_swirly"))
             System.out.println("[Special Effect]: Green Swirl!!!");
+
         else if (effectName.equals("cool_swirly_particles"))
             System.out.println("[Special Effect]: Fancy Swirly Particles in the air!!!");
+
         else if (effectName.equals("parry"))
             System.out.println("[Special Effect]: Nop! Try better next time!");
+            
         else if (effectName.equals("lots_of_gore"))
             System.out.println("[Special Effect]: Ouch!! That hurts!!");
 

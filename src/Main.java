@@ -21,7 +21,7 @@ public class Main {
         //You could make players use items
         //etc.
         //You don't need to worry about it for the assignment
-        //This is only to show how the 'external world' would instantiate the structure.
+        //This is only to show how the 'external world' (client code) would instantiate the core structure.
         //In the assignment, you're supposed to improve the design and not instantiate a game
     }
 }

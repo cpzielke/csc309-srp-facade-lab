@@ -18,7 +18,7 @@ You'll start by adding some more features to it to get it into a right mess, the
 2. Clone your fork to make a local copy.
 2. Build it.
 
-## Making the situation worse...
+## Evolving: Getting familiar with the code but making the situation worse...
 
 ### Feature: Super rare items look more awesome
 
