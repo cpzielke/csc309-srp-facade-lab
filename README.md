@@ -47,4 +47,6 @@ put the logic as the items are *mostly* acting on the player.
 
 ## How to fix it?
 
-*Apply the Single Responsibility Principle to provide a better separation of concerns, improve class cohesion, and them provide a Facade as a way to provide clients a unique central point of access to those different functionalities.*
+*Apply the Single Responsibility Principle to provide a better separation of concerns, improve class cohesion.*
+
+*Then, implement a Facade as a way to provide client code a unique central point of access to those different functionalities.*
