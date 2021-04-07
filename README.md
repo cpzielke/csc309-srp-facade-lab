@@ -16,6 +16,7 @@ You'll start by adding some more features to it to get it into a right mess, the
 
 1. Duplicate this repo so you can have this starter code. Don't fork it. [Follow instructions here until step 4 in the Mirroring a repository section](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository).
    * You will have a new repository that is a mirror of this one.
+   * Alternatively, you can download this code using GH download ZIP button and then start a brand new repo with the dowloaded code. 
 2. Make your new repository private.
 3. Start working on the code (move to next section).
 
