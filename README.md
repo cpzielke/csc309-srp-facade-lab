@@ -20,7 +20,7 @@ You'll start by adding some more features to it to get it into a right mess, the
    * To make this new folder a git folder, run *git init* in that folder.
    * Go to github.com and create a new repository at GitHub. Mark the repository as private.
    * Follow GH instructions to link your local git repo to this newly created GH repo.
-      * git remote add origin https://github.com/bcdasilv/abcdef.git
+      * git remote add origin https://github.com/<your_user>/<your_new_repo>.git
       * git branch -M main
       * git push -u origin main
    * Add me to your GH repo so I can access your solution later. My GH username: bcdasilv
