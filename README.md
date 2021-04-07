@@ -61,7 +61,7 @@ Then, in a last step, implement a Facade class as a way to provide client code a
 
 ## Turning it in
 
-Before turning it in, make sure you followed instructions in the Getting Started section above. Your repo should be private and not a fork of this one. If you haven't turned your repo private, please do it before turning it in on Canvas.
+Before turning it in, make sure you followed instructions in the Getting Started section above. Your repo should be private and not a fork neither a clone of this one. If you haven't turned your repo private, please do it before turning it in on Canvas.
 
 Add me to your private repo so I can access your code for grading purposes. My GH username is: **bcdasilv**
 
