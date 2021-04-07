@@ -14,11 +14,17 @@ You'll start by adding some more features to it to get it into a right mess, the
 
 ## Getting started
 
-1. Duplicate this repo so you can have this starter code. Don't fork it. [Follow instructions here until step 4 in the Mirroring a repository section](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository).
-   * You will have a new repository that is a mirror of this one.
-   * Alternatively, you can download this code using GH download ZIP button and then start a brand new repo with the dowloaded code. 
-2. Make your new repository private.
-3. Start working on the code (move to next section).
+1. Duplicate this repo so you can have this starter code. Don't fork it or clone it because you won't push to this repo.
+   * There are different ways to do duplicate this repo, and perhaps the simplest one is to download this code using GH download ZIP button in this page.
+   * Then, you unzip it locally in a new folder that will represent your new repo.
+   * To make this new folder a git folder, run *git init* in that folder.
+   * Go to github.com and create a new repository at GitHub. Mark the repository as private.
+   * Follow GH instructions to link your local git repo to this newly created GH repo.
+      * git remote add origin https://github.com/bcdasilv/abcdef.git
+      * git branch -M main
+      * git push -u origin main
+   * Add me to your GH repo so I can access your solution later. My GH username: bcdasilv
+2. Start working on the code (move to next section).
 
 ## Getting familiar with the code, but making the situation worse...
 
@@ -57,6 +63,6 @@ Then, in a last step, implement a Facade class as a way to provide client code a
 
 Before turning it in, make sure you followed instructions in the Getting Started section above. Your repo should be private and not a fork of this one. If you haven't turned your repo private, please do it before turning it in on Canvas.
 
-Then, add me to your private repo so I can access your code for grading purposes. My GH username is: **bcdasilv**
+Add me to your private repo so I can access your code for grading purposes. My GH username is: **bcdasilv**
 
 Finally, access the corresponding assignment on Canvas and submit your repo URL.
