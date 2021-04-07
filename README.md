@@ -14,9 +14,10 @@ You'll start by adding some more features to it to get it into a right mess, the
 
 ## Getting started
 
-1. Fork this repo.
-2. Clone your fork to make a local copy.
-2. Build it.
+1. Duplicate this repo. Don't fork it. [Follow instructions here until step 4 in the Mirroring a repository section](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository).
+   * You will have a new repository that is a mirror of this one.
+2. Make your new repository private.
+3. Start working on the code.
 
 ## Evolving: Getting familiar with the code but making the situation worse...
 
