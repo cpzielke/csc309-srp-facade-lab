@@ -14,7 +14,7 @@ You'll start by adding some more features to it to get it into a right mess, the
 
 ## Getting started
 
-1. Duplicate this repo so you can have this starter code. Don't fork it or clone it because you won't push to this repo.
+1. Duplicate this repo so you can have this starter code. Don't clone it because you won't push to this repo and don't fork it because you won't be able to make your fork private. 
    * There are different ways to do duplicate this repo, and perhaps the simplest one is to download this code using GH download ZIP button in this page.
    * Then, you unzip it locally in a new folder that will represent your new repo.
    * To make this new folder a git folder, run *git init* in that folder.
