@@ -24,7 +24,7 @@ You'll start by adding some more features to it to get it into a right mess, the
      - git remote add origin https://github.com/<your_user>/<your_new_repo>.git
      - git branch -M main
      - git push -u origin main
-   - Add me to your GH repo so I can access your solution later. My GH username: \*bklingen-calpoly
+   - Add me to your GH repo so I can access your solution later. My GH username: **bklingen-calpoly**
 2. Start working on the code (move to next section).
 
 ## Getting familiar with the code, but making the situation worse...
