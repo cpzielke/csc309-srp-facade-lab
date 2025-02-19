@@ -24,7 +24,7 @@ You'll start by adding some more features to it to get it into a right mess, the
      - git remote add origin https://github.com/<your_user>/<your_new_repo>.git
      - git branch -M main
      - git push -u origin main
-   - Add me to your GH repo so I can access your solution later. My GH username: **bklingen-calpoly**
+   - Add me to your GH repo so I can access your solution later. My GH username: **cpzielke**
 2. Start working on the code (move to next section).
 
 ## Getting familiar with the code, but making the situation worse...
@@ -64,6 +64,6 @@ Then, in a last step, implement a Facade class as a way to provide client code a
 
 Before turning it in, make sure you followed instructions in the Getting Started section above. Your repo should be private and not a fork neither a clone of this one. If you haven't turned your repo private, please do it before turning it in on Canvas.
 
-Add me to your private repo so I can access your code for grading purposes. My GH username is: **bklingen-calpoly**
+Add me to your private repo so I can access your code for grading purposes. My GH username is: **cpzielke**
 
 Finally, access the corresponding assignment on Canvas and submit your repo URL.
